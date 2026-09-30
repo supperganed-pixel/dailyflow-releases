@@ -10,4 +10,4 @@ This preview adds an animated sign-in and signup screen, a four-step getting-sta
 
 Only install APKs from this repository or the linked Expo build page. Android may ask you to approve installation from your browser or file manager.
 
-Source code will be published separately in `supperganed-pixel/dailyflow-source`.
+[View the public source code](https://github.com/supperganed-pixel/Dailyflow-app).
