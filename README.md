@@ -4,7 +4,12 @@ DailyFlow is an Android app for tasks, notes, follow-ups, private files, and a f
 
 ## Latest preview: 1.0.5
 
-The corrected signed APK is building on Expo. [Open the DailyFlow 1.0.5 build page](https://expo.dev/accounts/newflow1/projects/dailyflow/builds/69d8a238-29e3-47e5-8fee-e2892ad5e60a) to follow the build and download it when ready.
+**[Download the corrected signed DailyFlow 1.0.5 APK](https://expo.dev/artifacts/eas/xAPcyPGT9TUT-LGvGYJOInVN29Tmuo0nLiN5-TnUvu4.apk)**
+
+[View build details](https://expo.dev/accounts/newflow1/projects/dailyflow/builds/69d8a238-29e3-47e5-8fee-e2892ad5e60a)
+
+APK size: 73,516,134 bytes  
+SHA-256: `9aaed2fa03cc481f54dffe0a0d9b509937f4e185d71096afc6237b9e96c49223`
 
 ### Corrections in 1.0.5
 
